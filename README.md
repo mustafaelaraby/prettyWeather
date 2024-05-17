@@ -40,4 +40,4 @@ Open the project with Qt Creator and build the project.
 
 #### Run
 
-Run the `eWeather.exe` file.
+Run the `prettyWeather.exe` file.
